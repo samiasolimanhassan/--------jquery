@@ -1,0 +1,20 @@
+h3{
+    display: none;
+    color: #fff;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.col-md-4{
+    display: none;
+}
+.container-fluid{
+  background-color: rgb(233, 134, 134);
+  width: 5px;
+    height: 5px;
+}
+.img-item{
+    float: left;
+    padding: 5px;
+    cursor: pointer;
+}
